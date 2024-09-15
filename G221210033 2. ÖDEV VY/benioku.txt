@@ -1,0 +1,1 @@
+Veri.txt dosyasında sizin gönderdiğiniz Veri.txt dosyası mevcuttur.İlk harfini büyük yaparsanız sevinirim.Videoda olan aynı çıktıyı sağlayabiliyorum.
